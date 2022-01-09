@@ -1,2 +1,1 @@
-# SoftUni-JS-Advanced
-SoftUni JS Advanced Course 
+SoftUni JS Advanced Course exersices, homeworks and projects.
