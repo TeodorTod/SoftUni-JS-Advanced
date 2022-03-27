@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Firs Article",
+        "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident, iste! Quae error, cumque ut inventore deleniti cupiditate accusamus tempora voluptate iusto ad rem",
+        "author": "John Stockton",
+        "comment": "first Comment"
+    },
+
+    {
+        "title": "Second Article",
+        "content": "perspiciatis harum nam eum nobis vitae consequuntur id eius, architecto nisi nihil iure quam? Ea aut porro eaque magnam aliquid itaque veniam, accusamus vitae ut obcaecati.",
+        "author": "Karl Malone",
+        "comment": "second Comment"
+    },
+
+    {
+        "title": "Third Article",
+        "content": "Ex suscipit repellat, tempore numquam, voluptatibus eius illo cumque, aliquid perspiciatis porro magnam dolor unde dicta assumenda deserunt!",
+        "author": "Michael Jordan",
+        "comment": "third Comment"
+    }
+]
